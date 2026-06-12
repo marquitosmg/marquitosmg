@@ -1,4 +1,4 @@
-# 👨‍💻 Marcos Gomes
+# 👨‍💻 Marquitosmg
 
 🎓 Estudante da ETECVAV (1C2) com interesse em desenvolvimento de software, programação e tecnologia.
 
