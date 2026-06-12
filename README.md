@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨‍💻 Marcos Gomes
 
-<!--
-**marquitosmg/marquitosmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante da ETECVAV (1C2) com interesse em desenvolvimento de software, programação e tecnologia.
 
-Here are some ideas to get you started:
+🚀 Este perfil reúne projetos, estudos e experimentos desenvolvidos ao longo da minha jornada de aprendizado. Estou constantemente buscando aprimorar minhas habilidades técnicas e explorar novas áreas da computação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Interesses
+
+* 💻 Programação
+* ⚙️ Desenvolvimento de Software
+* 🎮 Desenvolvimento de Jogos
+* 🔬 Tecnologia e Inovação
+
+## 🎯 Objetivo
+
+📚 Utilizar este espaço para documentar minha evolução, compartilhar projetos e aplicar na prática os conhecimentos adquiridos.
