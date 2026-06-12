@@ -1,3 +1,6 @@
+<img src="[https://tenor.com/pt-BR/view/shakey-invincible-gif-2621611729911165356](https://m.media-amazon.com/images/M/MV5BYTU2NWZlZDItMjNhOS00NTg5LTk3ZWMtOTQxY2Y4ZWMyMjYwXkEyXkFqcGc@._V1_.jpg)"></img>
+
+
 # 👨‍💻 Marquitosmg
 
 🎓 Estudante da ETECVAV (1C2) com interesse em desenvolvimento de software, programação e tecnologia.
