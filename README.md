@@ -12,8 +12,7 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marquitosmg&show_icons=true&theme=radical)
-
+--
 
 ## 🛠️ Tecnologias e Interesses
 
@@ -21,6 +20,8 @@
 * ⚙️ Desenvolvimento de Software
 * 🎮 Desenvolvimento de Jogos
 * 🔬 Tecnologia e Inovação
+
+---
 
 ## 🎯 Objetivo
 
