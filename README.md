@@ -26,3 +26,5 @@
 ## 🎯 Objetivo
 
 📚 Utilizar este espaço para documentar minha evolução, compartilhar projetos e aplicar na prática os conhecimentos adquiridos.
+
+---
