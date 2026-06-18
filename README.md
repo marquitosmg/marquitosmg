@@ -12,7 +12,7 @@
 </p>
 
 
---
+---
 
 ## 🛠️ Tecnologias e Interesses
 
