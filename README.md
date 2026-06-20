@@ -1,4 +1,4 @@
-<img align="center" width="50%" src="https://media.tenor.com/4TGEwoA7Jp8AAAAd/killer-moth.gif"></img>
+<img align="center" width="50%" src="https://media.tenor.com/4TGEwoA7Jp8AAAAd/killer-moth.png"></img>
 
 
 # 👨‍💻 Marquitosmg
